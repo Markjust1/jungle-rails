@@ -87,5 +87,26 @@
       font-weight: 700;
       text-align: center;
     }
+    .disabled {
+      width: 140px;
+      font-size: 1em;
+      padding-left: 1em;
+      padding-right: 1em;
+      background-color: rgba(141, 255, 165, 0.7);
+      color: white;
+      font-weight: 700;
+      pointer-events: none;
+    }
   }
 }
+#products-list .btn-spread {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-content: space-between;
+
+  form.button_to {
+    margin-left: 0;
+  }
+}
+
