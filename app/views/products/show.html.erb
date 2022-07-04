@@ -15,9 +15,7 @@
       <div class="price">   
       <% if (@product.quantity == 0) %>
 
-        <%= button_to add_item_cart_path(product_id: @product.id), class: 'btn soldout' , method: :post do %>
-          <%= fa_icon "", text: 'Sold Out' %>
-        <% end %>
+        <div class='soldout'>Sold Out</div>
 
       <% else %>
 
