@@ -1,6 +1,6 @@
 /// <reference types="cypress" />
 
-describe('example to-do app', () => {
+describe('testing main page products', () => {
 
   beforeEach(() => {
     // Visits home page before every test
