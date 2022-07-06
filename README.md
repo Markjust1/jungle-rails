@@ -2,6 +2,41 @@
 
 A mini e-commerce application built with Rails 6.1 for purposes of teaching Rails by example.
 
+## Final Product
+
+***
+Welcome to the main page where user can browse the available products:
+
+!["Main page"](https://raw.githubusercontent.com/Markjust1/jungle-rails/public/images/main.gif)
+
+-----------------------------------------------------------------------------------
+
+Adding product to the cart:
+
+!["Add"](https://raw.githubusercontent.com/Markjust1/jungle-rails/public/images/add.gif)
+
+-----------------------------------------------------------------------------------
+
+Browsing the cart:
+
+!["Cart"](https://raw.githubusercontent.com/Markjust1/jungle-rails/public/images/cart.gif)
+
+-----------------------------------------------------------------------------------
+
+Admin can add items or categories and delete items if needed:
+
+!["Admin"](https://raw.githubusercontent.com/Markjust1/jungle-rails/public/images/admin.gif)
+
+-----------------------------------------------------------------------------------
+
+Checkout function:
+
+!["Checkout"](https://raw.githubusercontent.com/Markjust1/jungle-rails/public/images/checkout.gif)
+
+-----------------------------------------------------------------------------------
+
+ENJOY!
+
 ## Setup
 
 1. Run `bundle install` to install dependencies
